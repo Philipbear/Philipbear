@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-:smiling_face_with_three_hearts:
-:cn:
-:chile:
+:four_leaf_clover: I'm currently a PhD student @ UBC Chemistry.
+:label: Research interest: #metabolomics #informatics
+:envelope: Reach me: philipxsp@hotmail.com
+
 
 <!--
 :cn:
