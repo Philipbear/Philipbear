@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- :four_leaf_clover: I'm currently a PhD student @ UBC Chemistry.
+- :four_leaf_clover:  I'm currently a PhD student @ UBC Chemistry.
 
-- :label: Research interest: metabolomics, informatics, mass spectrometry, machine learning
+- :label:  Research interest: metabolomics, informatics, mass spectrometry, machine learning
 
-- :page_facing_up: My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
+- :page_facing_up:  My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
 
-- :envelope: Reach me: philipxsp@hotmail.com
+- :envelope:  Reach me: philipxsp@hotmail.com
 
 
 <!--
