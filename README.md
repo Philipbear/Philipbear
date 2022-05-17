@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- :four_leaf_clover:  Shipei Xing, a PhD student @ UBC Chemistry.
+- :four_leaf_clover:  I'm currently a PhD student @ UBC Chemistry.
 
 - :label:  Research interest: metabolomics, informatics, mass spectrometry, machine learning
 
