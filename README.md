@@ -5,6 +5,8 @@
 
 - :label:  Research interest: metabolomics, informatics, mass spectrometry, machine learning
 
+- :house:  My homepage: [shipeixing.com](https://shipeixing.com)
+
 - :page_facing_up:  My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
 
 - :envelope:  Reach me: philipxsp@hotmail.com / philipxsp@chem.ubc.ca
