@@ -3,7 +3,7 @@
 
 - :four_leaf_clover:  I'm currently a PhD student @ Chemistry, The University of British Columbia.
 
-- :label:  Research interest: metabolomics, informatics, mass spectrometry, machine learning
+- :label:  Research interest: metabolomics, mass spectrometry informatics, machine learning
 
 - :house:  My homepage: [shipeixing.com](https://shipeixing.com)
 
