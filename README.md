@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- :four_leaf_clover:  I'm currently a PhD student @ Chemistry, The University of British Columbia.
+- :four_leaf_clover:  I'm a PhD in Chemistry.
 
 - :label:  Research interest: metabolomics, mass spectrometry informatics, machine learning
 
