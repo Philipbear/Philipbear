@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+## pybuddy is in development. It is expected to be released in May, 2023. Should you have any question or suggestion, please contact me (philipxsp@hotmail.com).
 
+
+
+### About me
 - :four_leaf_clover:  I'm a PhD in Chemistry.
 
 - :label:  Research interest: metabolomics, mass spectrometry informatics, machine learning
