@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# pybuddy is currently in development. It is expected to be released in May, 2023. Should you have any question or suggestion, please contact me (philipxsp@hotmail.com).
+**pybuddy** is currently in development. It is expected to be released in May, 2023. Should you have any question or suggestion, please contact me (philipxsp@hotmail.com).
 
 
 
