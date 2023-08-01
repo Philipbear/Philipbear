@@ -5,7 +5,7 @@
 
 
 ### About me
-- :four_leaf_clover:  I'm a PhD in Chemistry.
+- :four_leaf_clover:  I'm a postdoctoral researcher in Pieter Dorrestein's lab.
 
 - :label:  Research interest: metabolomics, mass spectrometry informatics, machine learning
 
