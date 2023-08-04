@@ -5,7 +5,7 @@
 
 
 ### About me
-- :four_leaf_clover:  I'm a postdoctoral researcher in Pieter Dorrestein's lab.
+- :four_leaf_clover:  I'm currently a postdoctoral researcher in Pieter Dorrestein's lab in UC San Diego.
 
 - :label:  Research interest: metabolomics, mass spectrometry informatics, machine learning
 
