@@ -5,17 +5,15 @@
 
 
 ### About me
-- :four_leaf_clover:  I'm currently a postdoctoral researcher in Pieter Dorrestein's lab in UC San Diego.
+- :four_leaf_clover:  I'm a postdoctoral researcher in Pieter Dorrestein's lab in UC San Diego.
 
 - :label:  Research interest: metabolomics, mass spectrometry informatics, machine learning
-
-- :house:  My homepage: [shipeixing.com](https://shipeixing.com)
 
 - :page_facing_up:  My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
 
 - :envelope:  Reach me: philipxsp@hotmail.com
 
-
+- :house:  My homepage: [shipeixing.com](https://shipeixing.com)
 <!--
 
 
