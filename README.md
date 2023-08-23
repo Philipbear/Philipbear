@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**pybuddy** is currently in development. Should you have any question or suggestion, please contact me (philipxsp@hotmail.com).
+**pybuddy** is currently in development. Should you have any question or suggestion, please [contact me](mailto:philipxsp@hotmail.com).
 
 
 
