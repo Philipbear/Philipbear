@@ -11,7 +11,7 @@
 
 - :page_facing_up:  My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
 
-- :envelope:  Reach me: philipxsp@hotmail.com
+- :envelope:  Reach me: philipxsp@hotmail.com  /  s1xing@health.ucsd.edu
 
 - :house:  My homepage: [shipeixing.com](https://shipeixing.com)
 <!--
