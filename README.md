@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[`msbuddy` has just been released](https://github.com/Philipbear/msbuddy). Should you have any question or suggestion, please [contact me](mailto:s1xing@health.ucsd.edu).
+[`msbuddy` has been released](https://github.com/Philipbear/msbuddy)!
+
+Should you have any question or suggestion, please [contact me](mailto:s1xing@health.ucsd.edu).
 
 
 
