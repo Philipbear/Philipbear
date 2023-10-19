@@ -7,7 +7,7 @@ Should you have any question or suggestion, please [contact me](mailto:s1xing@he
 
 
 ### About me
-- :four_leaf_clover:  I'm a postdoctoral researcher in Pieter Dorrestein's lab in UC San Diego.
+- :four_leaf_clover:  I'm a postdoctoral researcher in **Pieter Dorrestein's lab in UC San Diego**.
 
 - :label:  Research interest: metabolomics, mass spectrometry informatics, machine learning
 
