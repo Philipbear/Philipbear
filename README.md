@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[`msbuddy` has been released](https://github.com/Philipbear/msbuddy)! Try it out!
-
-
-### About me
 - :four_leaf_clover:  I'm a postdoctoral researcher in **Pieter Dorrestein's lab at UC San Diego**.
 
 - :label:  Research interest: metabolomics, mass spectrometry informatics
@@ -12,8 +8,10 @@
 
 - Reach me: philipxsp@hotmail.com  /  s1xing@health.ucsd.edu
 
-- My homepage: [shipeixing.com](https://shipeixing.com)
 <!--
+
+
+- My homepage: [shipeixing.com](https://shipeixing.com)
 
 
 :cn:
