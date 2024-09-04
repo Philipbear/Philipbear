@@ -4,6 +4,8 @@
 
 - :label:  Research interest: metabolomics, mass spectrometry informatics
 
+- My personal page: [https://philipbear.github.io/shipei-xing/](https://philipbear.github.io/shipei-xing/)
+
 - My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
 
 - Reach me: philipxsp@hotmail.com  /  s1xing@health.ucsd.edu
