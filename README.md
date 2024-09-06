@@ -9,8 +9,7 @@
 
 ### 🚀 GitHub stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Philipbear&show_icons=true&theme=buefy&rank_icon=github)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Philipbear&theme=onedark&rank=S,SS,SSS,A,AA,AAA&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Philipbear&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📫 How to reach me
 - Reach me: philipxsp@hotmail.com  /  s1xing@health.ucsd.edu
