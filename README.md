@@ -10,12 +10,7 @@
 - My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
 
 ## 🚀 GitHub Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Philipbear&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Philipbear&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Philipbear&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Philipbear&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
