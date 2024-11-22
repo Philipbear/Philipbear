@@ -3,7 +3,7 @@
 - :label: Research interest: metabolomics, mass spectrometry informatics
 - My personal page: [https://philipbear.github.io/shipei-xing/](https://philipbear.github.io/shipei-xing/)
 - My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
-- Reach me: philipxsp@hotmail.com  /  s1xing@health.ucsd.edu
+- Reach me: philipxsp@hotmail.com
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Philipbear&show_icons=true&theme=buefy&rank_icon=github)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Philipbear&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
