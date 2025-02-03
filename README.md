@@ -1,5 +1,5 @@
 ### 👋 Hi there
-- :four_leaf_clover: I'm Shipei Xing, a postdoctoral researcher in **Pieter Dorrestein's lab** at UC San Diego.
+- :four_leaf_clover: I am a postdoctoral researcher in **Pieter Dorrestein's lab** at UC San Diego.
 - :label: Research interest: metabolomics, mass spectrometry informatics
 - My personal page: [https://philipbear.github.io/shipei-xing/](https://philipbear.github.io/shipei-xing/)
 - My publications: [Google scholar](https://scholar.google.ca/citations?user=en0zumcAAAAJ&hl=en)
